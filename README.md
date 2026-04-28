@@ -17,7 +17,7 @@ Architecture Diagram:
 
 Our model results (After 5 epochs):
 Confison matrix:
-![Alt](Screenshots/confusionMatrix.jpg)
+![Alt](Screenshots/confusionMatrix.png)
 
 Per-class accuracy:
-![Alt](Screenshots/perClassAccuracy.jpg)
+![Alt](Screenshots/perClassAccuracy.png)
